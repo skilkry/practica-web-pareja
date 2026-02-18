@@ -1,1 +1,1 @@
-# practica-web-pareja
+Proyecto web HTML en pareja
